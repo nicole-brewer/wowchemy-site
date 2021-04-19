@@ -1,51 +1,41 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+authors:
+- admin
+bio: I am a software engineer in Research Computing and co-chair of Women in HPC at
+  Purdue University. I work in the scientific solutions group where I develop research
+  software and science gateways.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: BS in Mathematics with Computer Science
+    institution: Purdue University
+    year: 2018
 email: ""
-highlight_name: false
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Research Software
+- Science Gateways
+- Advanced Computing
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+- name: Research Computing at Purdue University
+  url: https://www.rcac.purdue.edu/
+role: Software Engineer
 social:
 - icon: envelope
   icon_pack: fas
-  link: /#contact
-- display:
-    header: true
-  icon: twitter
+  link: '#contact'
+- icon: twitter
   icon_pack: fab
-  label: Follow me on Twitter
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/catch_me_coding
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/nicole-brewer
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://linkedin.com/in/nicole-brewer
+- icon: strava
+  icon_pack: fab
+  link: https://strava.com/athletes/13268500
 superuser: true
-title: Nelson Bighetti
+title: Nicole Brewer
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+I am a software engineer in [Research Computing](https://www.rcac.purdue.edu/) at Purdue University. I work in the [scientific solutions group](https://communityhub.purdue.edu/groups/ssg) where I develop [research software](https://us-rse.org/) and [science gateways](https://sciencegateways.org/about). Currently I spend my time developing the backend the geospacial science gateway, [myGeoHub](https://mygeohub.org/groups/gabbs), and developing a user interface for [statistical power analysis](https://projectreporter.nih.gov/project_info_description.cfm?aid=9643182&icde=41655443) software I am co-chair of  [Women in HPC at Purdue](https://www.rcac.purdue.edu/whpc) which is a proud member of the international [Women in HPC](https://womeninhpc.org/) organization.
