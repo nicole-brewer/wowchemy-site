@@ -5,55 +5,34 @@
 
 # Appearance
 
-theme: minimal
-day_night: true
-font: ''
-font_size: L
+theme: my_theme
+day_night: day
+font: 'my_font_set'
+font_size: M
 
 # SEO
 
 site_type: Person
 local_business_type: ''
 org_name: ''
-description: ''
-twitter: ''
+description: 'The personal blog of Nicole Brewer, software engineer, science enthusiast, and podcast host.'
+twitter: 'catch_me_coding'
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-phone: 888 888 88 88
-address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
-  country_code: US
-coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-office_hours:
-  - 'Monday 10:00 to 13:00'
-  - 'Wednesday 09:00 to 10:00'
-appointment_url: 'https://calendly.com'
 contact_links:
   - icon: twitter
     icon_pack: fab
-    name: DM Me
-    link: 'https://twitter.com/Twitter'
-  - icon: skype
+    name: 'Tweet at me'
+    link: 'https://twitter.com/catch_me_coding'
+  - icon: github
     icon_pack: fab
-    name: Skype Me
-    link: 'skype:echo123?call'
-  - icon: keybase
+    name: 'Catch me coding'
+    link: 'https://github.com/nicole-brewer'
+  - icon: linkedin
     icon_pack: fab
-    name: Chat on Keybase
-    link: 'https://keybase.io/'
-  - icon: comments
-    icon_pack: fas
-    name: Discuss on Forum
-    link: 'https://discourse.gohugo.io'
+    name: 'Connect with me'
+    link: 'https://linkedin.com/in/nicole-brewer'
 
 # Site header
 
@@ -62,7 +41,7 @@ main_menu:
   align: l
   show_logo: true
   show_language: false
-  show_day_night: true
+  show_day_night: false
   show_search: true
   highlight_active_link: true
 
@@ -153,7 +132,7 @@ marketing:
   baidu_site_verification: ''
   baidu_tongji: ''
 cms:
-  branch: master
+  branch: main
   local_backend: false
 icon:
   pack:

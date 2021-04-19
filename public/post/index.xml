@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts | Academic</title>
-    <link>/post/</link>
-      <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <title>Posts | Catch Me Coding</title>
+    <link>nicole-brewer.com/post/</link>
+      <atom:link href="nicole-brewer.com/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Nicole Brewer 2021</copyright><lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <url>/nicole-brewer.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>Posts</title>
-      <link>/post/</link>
+      <link>nicole-brewer.com/post/</link>
     </image>
     
     <item>
       <title>Welcome to Wowchemy, the website builder for Hugo</title>
-      <link>/post/getting-started/</link>
+      <link>nicole-brewer.com/post/getting-started/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>/post/getting-started/</guid>
+      <guid>nicole-brewer.com/post/getting-started/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;
@@ -91,11 +91,11 @@
     
     <item>
       <title>Hello R Markdown</title>
-      <link>/post/2020-12-01-r-rmarkdown/</link>
+      <link>nicole-brewer.com/post/2020-12-01-r-rmarkdown/</link>
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
-      <guid>/post/2020-12-01-r-rmarkdown/</guid>
+      <guid>nicole-brewer.com/post/2020-12-01-r-rmarkdown/</guid>
       <description>
-&lt;script src=&#34;/post/2020-12-01-r-rmarkdown/index.en_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;nicole-brewer.com/post/2020-12-01-r-rmarkdown/index.en_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 
 
 &lt;div id=&#34;r-markdown&#34; class=&#34;section level1&#34;&gt;
@@ -131,7 +131,7 @@ pie(
   init.angle = -50, border = NA
 )&lt;/code&gt;&lt;/pre&gt;
 &lt;div class=&#34;figure&#34;&gt;&lt;span id=&#34;fig:pie&#34;&gt;&lt;/span&gt;
-&lt;img src=&#34;/post/2020-12-01-r-rmarkdown/index.en_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
+&lt;img src=&#34;nicole-brewer.com/post/2020-12-01-r-rmarkdown/index.en_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;
 Figure 1: A fancy pie chart.
 &lt;/p&gt;
@@ -142,11 +142,11 @@ Figure 1: A fancy pie chart.
     
     <item>
       <title>SGCI Hack@PEARC19</title>
-      <link>/post/sgci-hack-pearc19/</link>
+      <link>nicole-brewer.com/post/sgci-hack-pearc19/</link>
       <pubDate>Mon, 20 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/post/sgci-hack-pearc19/</guid>
+      <guid>nicole-brewer.com/post/sgci-hack-pearc19/</guid>
       <description>
-&lt;script src=&#34;/post/sgci-hack-pearc19/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;nicole-brewer.com/post/sgci-hack-pearc19/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 
 
 &lt;p&gt;&lt;a href=&#34;https://sciencegateways.org/web/wd/hackathon-2019&#34; class=&#34;uri&#34;&gt;https://sciencegateways.org/web/wd/hackathon-2019&lt;/a&gt;&lt;/p&gt;
@@ -155,11 +155,11 @@ Figure 1: A fancy pie chart.
     
     <item>
       <title>Long Tales of Science</title>
-      <link>/post/long-tales-of-science/</link>
+      <link>nicole-brewer.com/post/long-tales-of-science/</link>
       <pubDate>Sat, 18 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/post/long-tales-of-science/</guid>
+      <guid>nicole-brewer.com/post/long-tales-of-science/</guid>
       <description>
-&lt;script src=&#34;/post/long-tales-of-science/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;nicole-brewer.com/post/long-tales-of-science/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 
 
 &lt;p&gt;Women in HPC at Purdue is proud to present the Long Tales of Science Podcast, where we interview women in science, engineering, social science, and the humanities who use supercomputers to empower their research. Today I want to take about the origin story of the the podcast’s namesake. The term long tail has it’s origin in business, where it it used to illustrate how a few high cost products can create as much or more profit than all the top top-sellers combined. Even though there is a low probability of purchase, the developing these products pay out. Over time, this term has been adopted by the advanced computing community. In this context, the long tail of science represents research projects enabled by HPC resources, science gateways, software, and expert support. We live in the data-age, but data on it’s own doesn’t provide us directly with knowledge. It takes transformation, analysis, visualization, machine learning, simulation, and modeling to transform data into scientific insight. As data get bigger or more fine-grained, so does the need for computational resources in small laboratories without their own advanced cyberinfrastructure. These small labs occupy the long tail, and if we can invest in providing them with HPC resources, there’s no telling how high the payout will be. One goal of this podcast is to share the success stories of computing enabled research. The other is to raise the visibility of women in the field. Women are highly under-represented in HPC and we want to make role models in the field more conspicuous.&lt;/p&gt;
@@ -168,11 +168,11 @@ Figure 1: A fancy pie chart.
     
     <item>
       <title>Mentors for Aspiring Girls in Computing</title>
-      <link>/post/who-is-women-in-hpc/</link>
+      <link>nicole-brewer.com/post/who-is-women-in-hpc/</link>
       <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/post/who-is-women-in-hpc/</guid>
+      <guid>nicole-brewer.com/post/who-is-women-in-hpc/</guid>
       <description>
-&lt;script src=&#34;/post/who-is-women-in-hpc/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;nicole-brewer.com/post/who-is-women-in-hpc/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 
 
 &lt;p&gt;In the fall of my senior year, I serendipitously came across a one credit hour class where undergraduate students like myself went to local middle and high schools to mentor young women in in after-school coding clubs. I didn’t really need the credit hour, but I’ve always enjoyed working with kids and promoting the representation of women in STEM, so I signed up for Mentors for Aspiring Girls in Computing (MAGIC) right away.&lt;/p&gt;
@@ -186,11 +186,11 @@ Figure 1: A fancy pie chart.
     
     <item>
       <title>Who is Women in HPC?</title>
-      <link>/post/who-is-women-in-hpc/</link>
+      <link>nicole-brewer.com/post/who-is-women-in-hpc/</link>
       <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/post/who-is-women-in-hpc/</guid>
+      <guid>nicole-brewer.com/post/who-is-women-in-hpc/</guid>
       <description>
-&lt;script src=&#34;/post/who-is-women-in-hpc/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;nicole-brewer.com/post/who-is-women-in-hpc/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 
 
 &lt;div id=&#34;who-is-women-in-hpc&#34; class=&#34;section level1&#34;&gt;
@@ -224,9 +224,9 @@ o What challenges have you have you faced along the way?
     
     <item>
       <title>Writing technical content in Academic</title>
-      <link>/post/writing-technical-content/</link>
+      <link>nicole-brewer.com/post/writing-technical-content/</link>
       <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>/post/writing-technical-content/</guid>
+      <guid>nicole-brewer.com/post/writing-technical-content/</guid>
       <description>&lt;p&gt;Academic is designed to give technical content creators a seamless experience. You can focus on the content and Academic handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Academic.&lt;/p&gt;
@@ -250,7 +250,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-369512784&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-196485723&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -260,7 +260,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-369512784&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-196485723&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -488,9 +488,9 @@ You found me!
     
     <item>
       <title>Display Jupyter Notebooks with Academic</title>
-      <link>/post/jupyter/</link>
+      <link>nicole-brewer.com/post/jupyter/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/post/jupyter/</guid>
+      <guid>nicole-brewer.com/post/jupyter/</guid>
       <description>&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;from IPython.core.display import Image
 Image(&#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&#39;)
 &lt;/code&gt;&lt;/pre&gt;

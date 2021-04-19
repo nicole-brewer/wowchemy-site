@@ -1,0 +1,21 @@
+# Theme metadata
+name = "my_theme"
+
+# Is theme light or dark?
+light = true
+
+# burnt orange
+primary = "#D04407"
+
+# Menu
+menu_primary = "#fff"
+# electric blue
+menu_text = "#54CCC0"
+# blue
+menu_text_active = "#3AB2A6"
+menu_title = "#54CCC0"
+
+# white
+home_section_odd = "rgb(255, 255, 255)"
+# light blue
+home_section_even = "#D8EBE6"
