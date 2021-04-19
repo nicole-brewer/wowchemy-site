@@ -1,10 +1,10 @@
 # Font style metadata
 name = "my_font_set"
 
-google_fonts="family=Cutive+Mono&family=Fjalla+One&family=Oswald:wght@600&family=Roboto:wght@300"
+google_fonts="family=Cutive+Mono&family=Russo+One&family=Bungee&family=PT+Sans"
 
 # Font families
-heading_font = "Oswald"
-body_font = "Roboto"
-nav_font = "Fjalla One"
+heading_font = "Russo One"
+body_font = "PT Sans"
+nav_font = "Bungee"
 mono_font = "Cutive Mono"
