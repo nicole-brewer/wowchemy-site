@@ -26,53 +26,11 @@
     <loc>nicole-brewer.com/courses/example/</loc>
     <lastmod>2021-01-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>nicole-brewer.com/tag/academic/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>nicole-brewer.com/authors/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-20T10:57:59-04:00</lastmod>
   </url><url>
     <loc>nicole-brewer.com/categories/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>nicole-brewer.com/category/demo/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>nicole-brewer.com/author/nicole-brewer/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>nicole-brewer.com/post/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>nicole-brewer.com/tags/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>nicole-brewer.com/post/getting-started/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>nicole-brewer.com/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>nicole-brewer.com/tag/%E5%BC%80%E6%BA%90/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>nicole-brewer.com/category/%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>nicole-brewer.com/post/2020-12-01-r-rmarkdown/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
-  </url><url>
-    <loc>nicole-brewer.com/tag/plot/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
-  </url><url>
-    <loc>nicole-brewer.com/category/r/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
-  </url><url>
-    <loc>nicole-brewer.com/tag/r-markdown/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
-  </url><url>
-    <loc>nicole-brewer.com/tag/regression/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+    <lastmod>2020-07-20T10:57:59-04:00</lastmod>
   </url><url>
     <loc>nicole-brewer.com/tag/hackathon/</loc>
     <lastmod>2020-07-20T10:57:59-04:00</lastmod>
@@ -83,6 +41,12 @@
     <loc>nicole-brewer.com/category/mentorship-volunteerism/</loc>
     <lastmod>2020-07-20T10:57:59-04:00</lastmod>
   </url><url>
+    <loc>nicole-brewer.com/author/nicole-brewer/</loc>
+    <lastmod>2020-07-20T10:57:59-04:00</lastmod>
+  </url><url>
+    <loc>nicole-brewer.com/post/</loc>
+    <lastmod>2020-07-20T10:57:59-04:00</lastmod>
+  </url><url>
     <loc>nicole-brewer.com/tag/science-gateways/</loc>
     <lastmod>2020-07-20T10:57:59-04:00</lastmod>
   </url><url>
@@ -90,6 +54,9 @@
     <lastmod>2020-07-20T10:57:59-04:00</lastmod>
   </url><url>
     <loc>nicole-brewer.com/post/sgci-hack-pearc19/</loc>
+    <lastmod>2020-07-20T10:57:59-04:00</lastmod>
+  </url><url>
+    <loc>nicole-brewer.com/tags/</loc>
     <lastmod>2020-07-20T10:57:59-04:00</lastmod>
   </url><url>
     <loc>nicole-brewer.com/post/long-tales-of-science/</loc>
@@ -131,9 +98,6 @@
     <loc>nicole-brewer.com/tag/women-in-stem/</loc>
     <lastmod>2020-06-29T15:26:04-04:00</lastmod>
   </url><url>
-    <loc>nicole-brewer.com/post/writing-technical-content/</loc>
-    <lastmod>2019-07-12T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>nicole-brewer.com/publication-type/3/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url><url>
@@ -148,9 +112,6 @@
   </url><url>
     <loc>nicole-brewer.com/tag/source-themes/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>nicole-brewer.com/post/jupyter/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>nicole-brewer.com/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
@@ -189,5 +150,7 @@
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>nicole-brewer.com/admin/</loc>
+  </url><url>
+    <loc>nicole-brewer.com/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
   </url>
 </urlset>
