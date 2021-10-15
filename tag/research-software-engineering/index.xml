@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research Software Engineering | Catch Me Coding</title>
+    <link>nicole-brewer.com/tag/research-software-engineering/</link>
+      <atom:link href="nicole-brewer.com/tag/research-software-engineering/index.xml" rel="self" type="application/rss+xml" />
+    <description>Research Software Engineering</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Nicole Brewer 2021</copyright><lastBuildDate>Mon, 27 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/nicole-brewer.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Research Software Engineering</title>
+      <link>nicole-brewer.com/tag/research-software-engineering/</link>
+    </image>
+    
+    <item>
+      <title>Writing Inclusive Job Posts in Research Software Engineering</title>
+      <link>nicole-brewer.com/post/inclusive-hiring-practices-in-research-software-engineering/</link>
+      <pubDate>Mon, 27 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>nicole-brewer.com/post/inclusive-hiring-practices-in-research-software-engineering/</guid>
+      <description>&lt;p&gt;You are a manager, and you&amp;rsquo;re writing an ad for a research software position. You want to write an ad that is inclusive of underrepresented individuals. What do you do?&lt;/p&gt;
+&lt;p&gt;Looking for inspiration? Visit &lt;a href=&#34;https://us-rse.org/rse-roles/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RSE Roles&lt;/a&gt; to find real RSE job descriptions. Search for the &amp;ldquo;inclusive&amp;rdquo; tag to find examples of job adverts that were written with underrepresented groups in mind.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://ncwit.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The National Center for Women &amp;amp; Information Technology&lt;/a&gt; is here to help you write better postings. In the pamflet &lt;a href=&#34;https://ncwit.org/resource/jobdescriptionanalysis/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tips for Writing Better Job Ads&lt;/a&gt; provide &amp;ldquo;before and after&amp;rdquo; examples that might help you identify and remove biases in your current draft. They even provide &lt;a href=&#34;https://ncwit.org/resource/jobdescriptionchecklist/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;a checklist&lt;/a&gt; to help you analyze what you have, step by step.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://gender-decoder.katmatfield.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Gender Decoder&lt;/a&gt; is an online tool that will scan text for gender-coded language from job ads to help you organization remove biases and subtle queues that dissuade women from applying. It is the subsequence of a research paper called &lt;a href=&#34;https://gender-decoder.katmatfield.com/static/documents/Gaucher-Friesen-Kay-JPSP-Gendered-Wording-in-Job-ads.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Evidence That Gendered Wording in Job Advertisements Exists and Sustains Gender Inequality&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Finally, if you&amp;rsquo;d like to take a deeper dive into this subject, consider purchasing the book &lt;a href=&#34;https://betterallies.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Better Allies Approach to Hiring&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: nicole-brewer.com/sitemap.xml

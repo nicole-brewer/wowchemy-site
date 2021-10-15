@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mentorship &amp; Volunteerism | Catch Me Coding</title>
+    <link>nicole-brewer.com/category/mentorship-volunteerism/</link>
+      <atom:link href="nicole-brewer.com/category/mentorship-volunteerism/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mentorship &amp; Volunteerism</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Nicole Brewer 2021</copyright><lastBuildDate>Mon, 20 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/nicole-brewer.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Mentorship &amp; Volunteerism</title>
+      <link>nicole-brewer.com/category/mentorship-volunteerism/</link>
+    </image>
+    
+    <item>
+      <title>SGCI Hack@PEARC19</title>
+      <link>nicole-brewer.com/post/sgci-hack-pearc19/</link>
+      <pubDate>Mon, 20 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>nicole-brewer.com/post/sgci-hack-pearc19/</guid>
+      <description>
+&lt;script src=&#34;nicole-brewer.com/post/sgci-hack-pearc19/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;&lt;a href=&#34;https://sciencegateways.org/web/wd/hackathon-2019&#34; class=&#34;uri&#34;&gt;https://sciencegateways.org/web/wd/hackathon-2019&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mentors for Aspiring Girls in Computing</title>
+      <link>nicole-brewer.com/post/who-is-women-in-hpc/</link>
+      <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>nicole-brewer.com/post/who-is-women-in-hpc/</guid>
+      <description>
+&lt;script src=&#34;nicole-brewer.com/post/who-is-women-in-hpc/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;In the fall of my senior year, I serendipitously came across a one credit hour class where undergraduate students like myself went to local middle and high schools to mentor young women in in after-school coding clubs. I didn’t really need the credit hour, but I’ve always enjoyed working with kids and promoting the representation of women in STEM, so I signed up for Mentors for Aspiring Girls in Computing (MAGIC) right away.&lt;/p&gt;
+&lt;p&gt;The instructor, my now friend Phil Sands, took a very hands-off approach and let us do the lesson and activity planning. As I’ve learned time and again, teaching engagingly is not easy; it’s a skill improved by practice. It was often difficult to cator to a range of skill levels, and getting any sort of visual or verbal feedback often seemed impossible, which meant it was hard to talk with the kids instead of at them.&lt;/p&gt;
+&lt;p&gt;{{&amp;lt; tweet 1070824487426449413 &amp;gt;}}&lt;/p&gt;
+&lt;p&gt;As challenging as it was to get through to the young women, it was equally rewarding. I got to share my unique experiences using computing to enable math and science, and even if they didn’t appreciate what that mean at the time, a few might be more informed of their choices of the future. Certainly, if I had been told what bioinformatics was when I was their age, I would have been well equipped to turn my junior year biology major into a career that wasn’t medical school, instead of taking three extra years to figure that out for myself.&lt;/p&gt;
+&lt;p&gt;{{&amp;lt; figure src=“teaching.jpg” title=“Teaching the math of JS animation” lightbox=“true” &amp;gt;}}&lt;/p&gt;
+&lt;p&gt;Perhaps the simplest and most impactful part of the program is that we got to influence the girls’ perceptions on what a software engineers look like, and created an environment where they didn’t feel a sense of exclusion based on normative stereotypes. I’m proud to have been a part of it.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
