@@ -1,0 +1,22 @@
+<div id="utterances"></div>
+<script>
+  (function() {
+    if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+      document.getElementById('utterances').innerHTML = 'Utterances comments not available by default when the website is previewed locally.';
+      return;
+    }
+  })();
+</script>
+
+{{ $repo := (printf "%s" (site.Params.comments.utterances.repo) ) }}
+{{ $issue_term := (printf "%s" (site.Params.comments.utterances.issue_term | default "pathname") ) }}
+{{ $theme := (printf "%s" (site.Params.comments.utterances.theme | default "github-light") ) }}
+{{ $label := (printf "%s" (site.Params.comments.utterances.label | default "comment") ) }}
+<script src="https://utteranc.es/client.js"
+        repo="{{$repo}}"
+        issue-term="{{$issue_term}}"
+        label="{{$label}}"
+        theme="{{$theme}}"
+        crossorigin="anonymous"
+        async>
+</script>

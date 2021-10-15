@@ -1,18 +1,20 @@
 ---
-authors: []
-categories: []
-date: "2019-02-05T00:00:00Z"
+authors: [admin]
+categories: ['Research Software Engineering']
+date: "2021-10-12T00:00:00Z"
 slides:
-  highlight_style: dracula
-  theme: black
+  theme: "white"  # Reveal JS theme name
+  highlight_style: "github"  # Highlight JS theme name
 summary: An introduction to using Wowchemy's Slides feature.
 tags: []
 title: Slides
 ---
 
-# Create slides in Markdown with Wowchemy
+# Recruiting RSEs
 
-[Wowchemy](https://wowchemy.com/) | [Documentation](https://owchemy.com/docs/managing-content/#create-slides)
+A Case Study in Nontraditional Pathways to Computing
+
+Nicole Brewer
 
 ---
 

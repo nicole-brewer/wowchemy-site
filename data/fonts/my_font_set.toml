@@ -1,10 +1,10 @@
 # Font style metadata
 name = "my_font_set"
 
-google_fonts="family=Cutive+Mono&family=Russo+One&family=Bungee&family=PT+Sans"
+google_fonts="family=Cutive+Mono&family=Eczar&family=Rubik:wght@700&family=Satisfy"
 
 # Font families
-heading_font = "Russo One"
-body_font = "PT Sans"
-nav_font = "Bungee"
+heading_font = "Rubik"
+body_font = "Eczar"
+nav_font = "Satisfy"
 mono_font = "Cutive Mono"

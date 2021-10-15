@@ -2,35 +2,41 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>nicole-brewer.com/courses/example/python/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>nicole-brewer.com/courses/example/visualization/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>nicole-brewer.com/courses/example/stats/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+    <loc>nicole-brewer.com/authors/</loc>
+    <lastmod>2021-10-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>nicole-brewer.com/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url><url>
-    <loc>nicole-brewer.com/talk/example-talk/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url><url>
-    <loc>nicole-brewer.com/event/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url><url>
-    <loc>nicole-brewer.com/courses/</loc>
-    <lastmod>2021-01-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>nicole-brewer.com/courses/example/</loc>
-    <lastmod>2021-01-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>nicole-brewer.com/authors/</loc>
-    <lastmod>2020-07-20T10:57:59-04:00</lastmod>
+    <lastmod>2021-10-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>nicole-brewer.com/categories/</loc>
-    <lastmod>2020-07-20T10:57:59-04:00</lastmod>
+    <lastmod>2021-10-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>nicole-brewer.com/author/nicole-brewer/</loc>
+    <lastmod>2021-10-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>nicole-brewer.com/category/research-software-engineering/</loc>
+    <lastmod>2021-10-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>nicole-brewer.com/slides/</loc>
+    <lastmod>2021-10-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>nicole-brewer.com/slides/example/</loc>
+    <lastmod>2021-10-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>nicole-brewer.com/tag/dei/</loc>
+    <lastmod>2021-09-27T14:45:29-04:00</lastmod>
+  </url><url>
+    <loc>nicole-brewer.com/post/</loc>
+    <lastmod>2021-09-27T14:45:29-04:00</lastmod>
+  </url><url>
+    <loc>nicole-brewer.com/tag/research-software-engineering/</loc>
+    <lastmod>2021-09-27T14:45:29-04:00</lastmod>
+  </url><url>
+    <loc>nicole-brewer.com/tags/</loc>
+    <lastmod>2021-09-27T14:45:29-04:00</lastmod>
+  </url><url>
+    <loc>nicole-brewer.com/post/inclusive-hiring-practices-in-research-software-engineering/</loc>
+    <lastmod>2021-09-27T14:45:29-04:00</lastmod>
   </url><url>
     <loc>nicole-brewer.com/tag/hackathon/</loc>
     <lastmod>2020-07-20T10:57:59-04:00</lastmod>
@@ -41,12 +47,6 @@
     <loc>nicole-brewer.com/category/mentorship-volunteerism/</loc>
     <lastmod>2020-07-20T10:57:59-04:00</lastmod>
   </url><url>
-    <loc>nicole-brewer.com/author/nicole-brewer/</loc>
-    <lastmod>2020-07-20T10:57:59-04:00</lastmod>
-  </url><url>
-    <loc>nicole-brewer.com/post/</loc>
-    <lastmod>2020-07-20T10:57:59-04:00</lastmod>
-  </url><url>
     <loc>nicole-brewer.com/tag/science-gateways/</loc>
     <lastmod>2020-07-20T10:57:59-04:00</lastmod>
   </url><url>
@@ -54,9 +54,6 @@
     <lastmod>2020-07-20T10:57:59-04:00</lastmod>
   </url><url>
     <loc>nicole-brewer.com/post/sgci-hack-pearc19/</loc>
-    <lastmod>2020-07-20T10:57:59-04:00</lastmod>
-  </url><url>
-    <loc>nicole-brewer.com/tags/</loc>
     <lastmod>2020-07-20T10:57:59-04:00</lastmod>
   </url><url>
     <loc>nicole-brewer.com/post/long-tales-of-science/</loc>
@@ -98,27 +95,6 @@
     <loc>nicole-brewer.com/tag/women-in-stem/</loc>
     <lastmod>2020-06-29T15:26:04-04:00</lastmod>
   </url><url>
-    <loc>nicole-brewer.com/publication-type/3/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>nicole-brewer.com/publication/preprint/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>nicole-brewer.com/publication_types/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>nicole-brewer.com/publication/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>nicole-brewer.com/tag/source-themes/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>nicole-brewer.com/slides/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>nicole-brewer.com/slides/example/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>nicole-brewer.com/tag/deep-learning/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
@@ -134,23 +110,12 @@
     <loc>nicole-brewer.com/project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>nicole-brewer.com/publication-type/2/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>nicole-brewer.com/publication/journal-article/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>nicole-brewer.com/author/robert-ford/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>nicole-brewer.com/publication-type/1/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>nicole-brewer.com/publication/conference-paper/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>nicole-brewer.com/admin/</loc>
   </url><url>
-    <loc>nicole-brewer.com/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
+    <loc>nicole-brewer.com/publication_types/</loc>
+  </url><url>
+    <loc>nicole-brewer.com/publication/</loc>
+  </url><url>
+    <loc>nicole-brewer.com/event/</loc>
   </url>
 </urlset>
