@@ -5,7 +5,7 @@ theme: "starter-academic"
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Catch Me Coding # Website name
-baseurl: 'nicole-brewer.com' # Website URL
+baseurl: 'http://project.nicole-brewer.com/wowchemy-site/' # Website URL
 copyright: '&copy; Nicole Brewer {year}'
 
 ############################
