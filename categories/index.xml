@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories | Catch Me Coding</title>
-    <link>nicole-brewer.com/categories/</link>
-      <atom:link href="nicole-brewer.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://project.nicole-brewer.com/wowchemy-site/categories/</link>
+      <atom:link href="http://project.nicole-brewer.com/wowchemy-site/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Nicole Brewer 2022</copyright><lastBuildDate>Tue, 12 Oct 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/nicole-brewer.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <url>http://project.nicole-brewer.com/wowchemy-site/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>Categories</title>
-      <link>nicole-brewer.com/categories/</link>
+      <link>http://project.nicole-brewer.com/wowchemy-site/categories/</link>
     </image>
     
   </channel>

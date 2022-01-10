@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Catch Me Coding</title>
-    <link>nicole-brewer.com/</link>
-      <atom:link href="nicole-brewer.com/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://project.nicole-brewer.com/wowchemy-site/</link>
+      <atom:link href="http://project.nicole-brewer.com/wowchemy-site/index.xml" rel="self" type="application/rss+xml" />
     <description>Catch Me Coding</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Nicole Brewer 2022</copyright><lastBuildDate>Fri, 10 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/nicole-brewer.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <url>http://project.nicole-brewer.com/wowchemy-site/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>Catch Me Coding</title>
-      <link>nicole-brewer.com/</link>
+      <link>http://project.nicole-brewer.com/wowchemy-site/</link>
     </image>
     
     <item>
       <title>International RSE Day</title>
-      <link>nicole-brewer.com/publication/preprint/</link>
+      <link>http://project.nicole-brewer.com/wowchemy-site/publication/preprint/</link>
       <pubDate>Fri, 10 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>nicole-brewer.com/publication/preprint/</guid>
+      <guid>http://project.nicole-brewer.com/wowchemy-site/publication/preprint/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
@@ -28,9 +28,9 @@
     
     <item>
       <title>Slides</title>
-      <link>nicole-brewer.com/slides/example/</link>
+      <link>http://project.nicole-brewer.com/wowchemy-site/slides/example/</link>
       <pubDate>Tue, 12 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>nicole-brewer.com/slides/example/</guid>
+      <guid>http://project.nicole-brewer.com/wowchemy-site/slides/example/</guid>
       <description>&lt;h1 id=&#34;recruiting-rses&#34;&gt;Recruiting RSEs&lt;/h1&gt;
 &lt;p&gt;A Case Study in Nontraditional Pathways to Computing&lt;/p&gt;
 &lt;p&gt;Nicole Brewer&lt;/p&gt;
@@ -158,9 +158,9 @@ Three
     
     <item>
       <title>Writing Inclusive Job Posts in Research Software Engineering</title>
-      <link>nicole-brewer.com/post/inclusive-hiring-practices-in-research-software-engineering/</link>
+      <link>http://project.nicole-brewer.com/wowchemy-site/post/inclusive-hiring-practices-in-research-software-engineering/</link>
       <pubDate>Mon, 27 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>nicole-brewer.com/post/inclusive-hiring-practices-in-research-software-engineering/</guid>
+      <guid>http://project.nicole-brewer.com/wowchemy-site/post/inclusive-hiring-practices-in-research-software-engineering/</guid>
       <description>&lt;p&gt;You are a manager, and you&amp;rsquo;re writing an ad for a research software position. You want to write an ad that is inclusive of underrepresented individuals. What do you do?&lt;/p&gt;
 &lt;p&gt;Looking for inspiration? Visit &lt;a href=&#34;https://us-rse.org/rse-roles/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RSE Roles&lt;/a&gt; to find real RSE job descriptions. Search for the &amp;ldquo;inclusive&amp;rdquo; tag to find examples of job adverts that were written with underrepresented groups in mind.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://ncwit.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The National Center for Women &amp;amp; Information Technology&lt;/a&gt; is here to help you write better postings. In the pamflet &lt;a href=&#34;https://ncwit.org/resource/jobdescriptionanalysis/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tips for Writing Better Job Ads&lt;/a&gt; provide &amp;ldquo;before and after&amp;rdquo; examples that might help you identify and remove biases in your current draft. They even provide &lt;a href=&#34;https://ncwit.org/resource/jobdescriptionchecklist/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;a checklist&lt;/a&gt; to help you analyze what you have, step by step.&lt;/p&gt;
@@ -171,11 +171,11 @@ Three
     
     <item>
       <title>SGCI Hack@PEARC19</title>
-      <link>nicole-brewer.com/post/sgci-hack-pearc19/</link>
+      <link>http://project.nicole-brewer.com/wowchemy-site/post/sgci-hack-pearc19/</link>
       <pubDate>Mon, 20 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>nicole-brewer.com/post/sgci-hack-pearc19/</guid>
+      <guid>http://project.nicole-brewer.com/wowchemy-site/post/sgci-hack-pearc19/</guid>
       <description>
-&lt;script src=&#34;nicole-brewer.com/post/sgci-hack-pearc19/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;http://project.nicole-brewer.com/wowchemy-site/post/sgci-hack-pearc19/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 
 
 &lt;p&gt;&lt;a href=&#34;https://sciencegateways.org/web/wd/hackathon-2019&#34; class=&#34;uri&#34;&gt;https://sciencegateways.org/web/wd/hackathon-2019&lt;/a&gt;&lt;/p&gt;
@@ -184,11 +184,11 @@ Three
     
     <item>
       <title>Long Tales of Science</title>
-      <link>nicole-brewer.com/post/long-tales-of-science/</link>
+      <link>http://project.nicole-brewer.com/wowchemy-site/post/long-tales-of-science/</link>
       <pubDate>Sat, 18 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>nicole-brewer.com/post/long-tales-of-science/</guid>
+      <guid>http://project.nicole-brewer.com/wowchemy-site/post/long-tales-of-science/</guid>
       <description>
-&lt;script src=&#34;nicole-brewer.com/post/long-tales-of-science/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;http://project.nicole-brewer.com/wowchemy-site/post/long-tales-of-science/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 
 
 &lt;p&gt;Women in HPC at Purdue is proud to present the Long Tales of Science Podcast, where we interview women in science, engineering, social science, and the humanities who use supercomputers to empower their research. Today I want to take about the origin story of the the podcast’s namesake. The term long tail has it’s origin in business, where it it used to illustrate how a few high cost products can create as much or more profit than all the top top-sellers combined. Even though there is a low probability of purchase, the developing these products pay out. Over time, this term has been adopted by the advanced computing community. In this context, the long tail of science represents research projects enabled by HPC resources, science gateways, software, and expert support. We live in the data-age, but data on it’s own doesn’t provide us directly with knowledge. It takes transformation, analysis, visualization, machine learning, simulation, and modeling to transform data into scientific insight. As data get bigger or more fine-grained, so does the need for computational resources in small laboratories without their own advanced cyberinfrastructure. These small labs occupy the long tail, and if we can invest in providing them with HPC resources, there’s no telling how high the payout will be. One goal of this podcast is to share the success stories of computing enabled research. The other is to raise the visibility of women in the field. Women are highly under-represented in HPC and we want to make role models in the field more conspicuous.&lt;/p&gt;
@@ -197,11 +197,11 @@ Three
     
     <item>
       <title>Mentors for Aspiring Girls in Computing</title>
-      <link>nicole-brewer.com/post/who-is-women-in-hpc/</link>
+      <link>http://project.nicole-brewer.com/wowchemy-site/post/who-is-women-in-hpc/</link>
       <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>nicole-brewer.com/post/who-is-women-in-hpc/</guid>
+      <guid>http://project.nicole-brewer.com/wowchemy-site/post/who-is-women-in-hpc/</guid>
       <description>
-&lt;script src=&#34;nicole-brewer.com/post/who-is-women-in-hpc/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;http://project.nicole-brewer.com/wowchemy-site/post/who-is-women-in-hpc/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 
 
 &lt;p&gt;In the fall of my senior year, I serendipitously came across a one credit hour class where undergraduate students like myself went to local middle and high schools to mentor young women in in after-school coding clubs. I didn’t really need the credit hour, but I’ve always enjoyed working with kids and promoting the representation of women in STEM, so I signed up for Mentors for Aspiring Girls in Computing (MAGIC) right away.&lt;/p&gt;
@@ -215,11 +215,11 @@ Three
     
     <item>
       <title>Who is Women in HPC?</title>
-      <link>nicole-brewer.com/post/who-is-women-in-hpc/</link>
+      <link>http://project.nicole-brewer.com/wowchemy-site/post/who-is-women-in-hpc/</link>
       <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>nicole-brewer.com/post/who-is-women-in-hpc/</guid>
+      <guid>http://project.nicole-brewer.com/wowchemy-site/post/who-is-women-in-hpc/</guid>
       <description>
-&lt;script src=&#34;nicole-brewer.com/post/who-is-women-in-hpc/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;http://project.nicole-brewer.com/wowchemy-site/post/who-is-women-in-hpc/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 
 
 &lt;div id=&#34;who-is-women-in-hpc&#34; class=&#34;section level1&#34;&gt;
@@ -253,35 +253,35 @@ o What challenges have you have you faced along the way?
     
     <item>
       <title>Privacy Policy</title>
-      <link>nicole-brewer.com/privacy/</link>
+      <link>http://project.nicole-brewer.com/wowchemy-site/privacy/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>nicole-brewer.com/privacy/</guid>
+      <guid>http://project.nicole-brewer.com/wowchemy-site/privacy/</guid>
       <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Terms</title>
-      <link>nicole-brewer.com/terms/</link>
+      <link>http://project.nicole-brewer.com/wowchemy-site/terms/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>nicole-brewer.com/terms/</guid>
+      <guid>http://project.nicole-brewer.com/wowchemy-site/terms/</guid>
       <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>External Project</title>
-      <link>nicole-brewer.com/project/external-project/</link>
+      <link>http://project.nicole-brewer.com/wowchemy-site/project/external-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>nicole-brewer.com/project/external-project/</guid>
+      <guid>http://project.nicole-brewer.com/wowchemy-site/project/external-project/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Internal Project</title>
-      <link>nicole-brewer.com/project/internal-project/</link>
+      <link>http://project.nicole-brewer.com/wowchemy-site/project/internal-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>nicole-brewer.com/project/internal-project/</guid>
+      <guid>http://project.nicole-brewer.com/wowchemy-site/project/internal-project/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
 &lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
 &lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
@@ -292,9 +292,9 @@ o What challenges have you have you faced along the way?
     
     <item>
       <title></title>
-      <link>nicole-brewer.com/admin/config.yml</link>
+      <link>http://project.nicole-brewer.com/wowchemy-site/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>nicole-brewer.com/admin/config.yml</guid>
+      <guid>http://project.nicole-brewer.com/wowchemy-site/admin/config.yml</guid>
       <description></description>
     </item>
     

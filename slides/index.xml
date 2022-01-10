@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Slides | Catch Me Coding</title>
-    <link>nicole-brewer.com/slides/</link>
-      <atom:link href="nicole-brewer.com/slides/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://project.nicole-brewer.com/wowchemy-site/slides/</link>
+      <atom:link href="http://project.nicole-brewer.com/wowchemy-site/slides/index.xml" rel="self" type="application/rss+xml" />
     <description>Slides</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Nicole Brewer 2022</copyright><lastBuildDate>Tue, 12 Oct 2021 00:00:00 +0000</lastBuildDate>
     <item>
       <title>Slides</title>
-      <link>nicole-brewer.com/slides/example/</link>
+      <link>http://project.nicole-brewer.com/wowchemy-site/slides/example/</link>
       <pubDate>Tue, 12 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>nicole-brewer.com/slides/example/</guid>
+      <guid>http://project.nicole-brewer.com/wowchemy-site/slides/example/</guid>
       <description>&lt;h1 id=&#34;recruiting-rses&#34;&gt;Recruiting RSEs&lt;/h1&gt;
 &lt;p&gt;A Case Study in Nontraditional Pathways to Computing&lt;/p&gt;
 &lt;p&gt;Nicole Brewer&lt;/p&gt;
